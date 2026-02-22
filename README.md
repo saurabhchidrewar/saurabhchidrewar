@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**saurabhchidrewar/saurabhchidrewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Saurabh Chidrewar
 
-Here are some ideas to get you started:
+### Backend Engineer • Full-Stack Developer • System Design Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Distributed+Systems+Enthusiast;Performance+Driven+Engineer;From+DSA+to+Production+Systems" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```yaml
+Engineer Mindset:
+  - Think in systems
+  - Build for scale
+  - Optimize for performance
+  - Ship with ownership
